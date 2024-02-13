@@ -11,10 +11,10 @@ int main() {
     sum = num1 + num2;
     difference = num1 - num2;
 
-    printf("The sum of the numbers is: %.2lf\n", sum);
-    printf("The difference of the numbers is: %.2lf\n", difference);
-    printf("The sum and difference of the numbers are: %.2lf, %.2lf\n", sum, difference);
+    printf("The sum of the numbers is: %lf\n", sum);
+    printf("The difference of the numbers is: %lf\n", difference);
+    printf("The sum and difference of the numbers are: %lf, %lf\n", sum, difference);
 
-   printf("\n\nThank you for using my calculator!");
+   printf("\n\nThank you for using Eugene's calculator!");
     return 0;
 }
