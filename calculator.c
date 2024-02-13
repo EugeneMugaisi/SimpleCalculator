@@ -13,7 +13,7 @@ int main() {
 
     printf("The sum of the numbers is: %.2lf\n", sum);
     printf("The difference of the numbers is: %.2lf\n", difference);
-    // printf("The sum and difference of the numbers is: %.2lf\n", sum);
+    printf("The sum and difference of the numbers are: %.2lf, %.2lf\n", sum, difference);
 
    printf("\n\nThank you for using my calculator!");
     return 0;
